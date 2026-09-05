@@ -1,0 +1,40 @@
+import { BeforeAfterItem } from '../types';
+
+export const beforeAfterData: BeforeAfterItem[] = [
+  {
+    id: 'ba-1',
+    title: 'Küllü Kumraldan Doğal Krem Balayage Dönüşümü',
+    subtitle: '180 Dakikalık Artisanal Renk Dönüşümü',
+    serviceName: 'Artisanal Balayage & Renk Tasarımı',
+    serviceId: 'srv-balayage',
+    stylistName: 'Selin Varol',
+    stylistId: 'staff-selin',
+    beforeImage: 'https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&w=1000&q=80',
+    afterImage: 'https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1000&q=85',
+    description: 'Önceden matlaşmış ve çizgi kalmış eski sarılar arındırılarak, yüz çevresine yumuşak altın-krem geçişler ve parlaklık mühürlemesi uygulandı.',
+  },
+  {
+    id: 'ba-2',
+    title: 'Ağır Hasarlı Saçtan İpeksi Form ve Katlı Kesim',
+    subtitle: 'Havyar Botox + Couture Kesim',
+    serviceName: 'Havyar Özlü Saç Botox & Yenileme Ritüeli',
+    serviceId: 'srv-botox-ritual',
+    stylistName: 'Kerem Akyol & Caner Demir',
+    stylistId: 'staff-caner',
+    beforeImage: 'https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=1000&q=80',
+    afterImage: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1000&q=85',
+    description: 'Yıpranmış kırık uçlar arındırıldı, yüzü çerçeveleyen hafif katlar ve yoğun keratin-havyar yüklemesi ile doğal esneklik geri kazandırıldı.',
+  },
+  {
+    id: 'ba-3',
+    title: 'Koyu Kahveden Lüks French Sombre Dönüşümü',
+    subtitle: 'Doğal Kök Geçişli Işıltı',
+    serviceName: 'French Sombre & Face Framing (Money Piece)',
+    serviceId: 'srv-sombre-contour',
+    stylistName: 'Selin Varol',
+    stylistId: 'staff-selin',
+    beforeImage: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=1000&q=80',
+    afterImage: 'https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=1000&q=85',
+    description: 'Saçın dip rengine dokunulmadan, boy ve uçlara mikro dokunuşlarla sıcak karamel ve bal ışıltıları eklendi.',
+  },
+];

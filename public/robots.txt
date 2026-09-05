@@ -1,0 +1,10 @@
+# L'ÉLIXIR Atelier - Luxury Hair & Beauty Studio
+# https://lelixir-atelier.com
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /#/admin
+
+Sitemap: https://lelixir-atelier.com/sitemap.xml
+

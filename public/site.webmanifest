@@ -1,0 +1,17 @@
+{
+  "name": "L'ÉLIXIR Atelier Hair & Beauty Studio",
+  "short_name": "L'ÉLIXIR",
+  "description": "Lüks Kuaför & Kişiye Özel Saç Sanatı Stüdyosu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#12100E",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
